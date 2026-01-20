@@ -1,6 +1,9 @@
 # Access Development
 
 <b>SDDP Information Capture and Analysis Tool (SICAT)</b>
+SICAT is a documentation capturing tool for various Oracle design documents. The developed using MS Access and utilized by various team members from PM, BA, Requirements to developers.
+SICAT is able to track multiple projects at various stages of development.  
+
 <img width="919" height="511" alt="image" src="https://github.com/user-attachments/assets/217dc5a0-44fd-450c-86e8-748f8cfc1e21" />
 <img width="918" height="505" alt="image" src="https://github.com/user-attachments/assets/a474deb2-de40-4b20-a7c9-163ec378864a" />
 <img width="919" height="506" alt="image" src="https://github.com/user-attachments/assets/408bf8e4-6a11-4d91-8a45-05f2230f71e5" />
