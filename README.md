@@ -1,13 +1,16 @@
 # Access Development
-I've built all kinds of Access databases over the 20 years ranging from simple address books to complex tool such as MSAT that's used by the USAF.
+I've built all kinds of Access databases over the 20 years ranging from simple address books to complex tool such as MSAT that imported 200+ text file reports that's used by the USAF to manage aicraft configuration and maintenance.
 
 <b>SDDP Information Capture and Analysis Tool (SICAT)</b>
-SICAT is a documentation capturing tool for various Oracle design documents. The developed using MS Access and utilized by various team members from PM, BA, Requirements to developers.
-SICAT is able to track multiple projects at various stages of development.  
+SICAT is a documentation capturing tool for various Oracle design documents. The developed using MS Access and utilized by various IT professional ranging from PM, BA, Requirements to developers.
+Below are sample screent shots of SICAT. It was used to track multiple projects at various stages of development. 
 
 <img width="919" height="511" alt="image" src="https://github.com/user-attachments/assets/217dc5a0-44fd-450c-86e8-748f8cfc1e21" />
 <img width="918" height="505" alt="image" src="https://github.com/user-attachments/assets/a474deb2-de40-4b20-a7c9-163ec378864a" />
 <img width="919" height="506" alt="image" src="https://github.com/user-attachments/assets/408bf8e4-6a11-4d91-8a45-05f2230f71e5" />
+<img width="1141" height="603" alt="image" src="https://github.com/user-attachments/assets/a863faca-750b-45cf-a58f-817d8e718bfa" />
+<img width="1234" height="591" alt="image" src="https://github.com/user-attachments/assets/7b1da91a-d7fa-4c88-a92d-c966a9a94654" />
+
 <img width="919" height="511" alt="image" src="https://github.com/user-attachments/assets/21c5d7a6-dc13-43a1-8630-4336f39bed35" />
 <img width="918" height="508" alt="image" src="https://github.com/user-attachments/assets/2c3f555a-fb6f-43ef-acb6-8c8f749d2aca" />
 <img width="1052" height="401" alt="image" src="https://github.com/user-attachments/assets/54276570-6791-472f-a153-25d3aba60c38" />
@@ -19,29 +22,29 @@ SICAT is able to track multiple projects at various stages of development.
 
 </br></br></br>
 <b>USAF Maintenance Scheduling Application Tool</b>
-<BR><BR>
+</BR></BR>
 <b>System Purpose</b><BR>
 MSAT provides an invaluable tool to analyze critical maintenance records.  It provides Aircraft Schedulers and Maintenance Managers with the information they need to make critical decisions in meeting the rigorous and challenging mission requirements facing Air Force leaders.  Previously, Aircraft Schedulers used a manual process to reconcile aircraft maintenance inspections of all systems. MSAT accomplish this by creating and maintaining its own version of Configuration Management for all aircrafts. All potential maintenance actions is analyzed and ranked by priority. 
  <BR><BR>
 Analyzing the data is very complex process. The data is a hodge podge of data and data reports from one system is not the same from another system.  For example, Acft 01 on Report 1 could be refering to ten different aircrafts on Report 2. It is impossible to correctly align the data if you don't have a very good understanding. Best practices of data mangement do not exist. Primary and secondary keys do not exist. It is possible to join the data between Report 1 and Report 2 and correctly align the data.  
- <BR><BR>
+ </BR></BR>
 MSAT automates these processes by utilizing Data Mining software to convert existing reports from various USAF systems. These files containing tens of thousands of records are imported into MSAT for analysts to produce various reports, which re-focus job performance on the utilization of this information, not on producing it.  Utilizing MSAT reduces the risk of manual errors, and standardizes the way this information is utilized throughout the Air Force.  MSAT also eliminates hundreds of hours which were required to research information. MSAT has been designed to support all Wings and any kind of aircraft. 
-<BR><BR>
+</BR></BR>
 Decision quality information-- MSAT allows Aircraft Schedulers and Maintenance Managers to focus on utilizing the information, not recreating it. 
-<BR><BR>
+</BR></BR>
 MSAT meets and exceeds Air Force standards.
 
-<BR><BR>
-<b>MSAT Reports</b><BR>
-The following is a short list of all reports available through MSAT:<BR><BR>
-Aircraft<BR>
-Configuration Management<BR>
-Flying Hour<BR>
-Discrepancy<BR>
-Supply<BR>
-Engine<BR>
-Other Equipment<BR>
-Deployment Planning<BR><br>
+</BR></BR>
+<b>MSAT Reports</b></BR>
+The following is a short list of all reports available through MSAT:</BR></BR>
+Aircraft</BR>
+Configuration Management</BR>
+Flying Hour</BR>
+Discrepancy</BR>
+Supply</BR>
+Engine</BR>
+Other Equipment</BR>
+Deployment Planning</BR></br>
 
 <b>Sample Screen Shots</b>
 <br>
